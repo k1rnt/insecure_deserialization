@@ -1,5 +1,5 @@
 # Insecure deserialization
-portswigger web security academy(wsa)とかで使えるやつ  
+portswigger web security academy(wsa)とかBSCPで使えそうなやつ  
 
 ## Java
 - ysoserial-all.jar
