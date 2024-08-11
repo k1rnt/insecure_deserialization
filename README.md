@@ -1,4 +1,5 @@
 # Insecure deserialization
+portswigger web security academy(wsa)とかで使えるやつ  
 
 ## Java
 - ysoserial-all.jar
