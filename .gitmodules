@@ -1,0 +1,6 @@
+[submodule "phpggc"]
+	path = phpggc
+	url = https://github.com/ambionics/phpggc.git
+[submodule "phpggc-module"]
+	path = phpggc-module
+	url = https://github.com/ambionics/phpggc.git
